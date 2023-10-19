@@ -1,6 +1,7 @@
 #include "haplotype_manager.hpp"
 #include "set_of_extensions.hpp"
 #include <iostream>
+#include <cstdint>
 
 using namespace std;
 
